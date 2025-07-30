@@ -44,4 +44,4 @@ To run this application on your own machine, please follow these steps:
 
 ## Screenshot
 
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+![Personal Dashboard Screenshot](assets/dashboard_screenshot.png)
